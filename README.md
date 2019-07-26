@@ -1,1 +1,3 @@
-# Modelos-Probabil-sticos
+# Modelos-Probabilísticos
+
+Disciplina da FEI
